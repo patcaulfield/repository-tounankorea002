@@ -44,7 +44,7 @@ export default function Header1({ variant }) {
               <div className="pera">
                 <p>
                 <Image src="/assets/img/icons/header-top-span.png" alt="img" width={18} height={16}   />
-                   A Professional Technology & It Solution Company Based On World</p>
+                  세계로 뻗어가는 전문 무역 솔루션 기업 </p>
               </div>
             </div>
           </div>
@@ -99,6 +99,6 @@ export default function Header1({ variant }) {
       </div>
     </header>
     </div>
-    
+
   );
 }

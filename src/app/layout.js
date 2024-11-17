@@ -13,13 +13,13 @@ const figtree = Figtree({
 export const metadata = {
   title: {
     absolute: '',
-    default: 'TechXen - Technology & It Solution NextJS Template',
-    template: '%s | TechXen - Technology & It Solution NextJS Template',
+    default: '토우난코리아 - 글로벌 시장의 동반자, 성공을 함께 만들어갑니다!',
+    template: '%s | 토우난코리아 - 글로벌 시장의 동반자, 성공을 함께 만들어갑니다!',
   },
-  description: 'TechXen - Technology & It Solution NextJS Template',
+  description: '토우난코리아 - 글로벌 시장의 동반자, 성공을 함께 만들어갑니다!',
   openGraph: {
-    title: 'TechXen - Technology & It Solution NextJS Template',
-    description: 'TechXen - Technology & It Solution NextJS Template',
+    title: '토우난코리아 - 글로벌 시장의 동반자, 성공을 함께 만들어갑니다!',
+    description: '토우난코리아 - 글로벌 시장의 동반자, 성공을 함께 만들어갑니다!',
   },
 };
 
