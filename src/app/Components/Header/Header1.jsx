@@ -83,12 +83,12 @@ export default function Header1({ variant }) {
                       <Image src="/assets/img/icons/header1-icon.png" alt="img" width={22} height={22}   />
                       </div>
                       <div className="headding">
-                        <p>Make a Call</p>
-                        <a href="tel:124(555)6565">124 (555) 6565</a>
+                        <p>고객센터</p>
+                        <a href="tel:124(555)6565">010-1234-5678</a>
                       </div>
                     </div>
                     <div className="button">
-                    <Link href="/contact" className="theme-btn1" >Get A Quote <span><i className="bi bi-arrow-right"></i>
+                    <Link href="/contact" className="theme-btn1" >문의하기 <span><i className="bi bi-arrow-right"></i>
                     </span></Link>
                     </div>
                </div>

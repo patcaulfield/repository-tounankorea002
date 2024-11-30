@@ -6,17 +6,17 @@ export default function Nav({ setMobileToggle }) {
     <ul className="cs_nav_list fw-medium">
 
       <li className="menu-item-has-children">
-        <Link href="#">About</Link>
+        <Link href="#">기업 소개</Link>
         <DropDown>
           <ul>
             <li>
               <Link href="/about" onClick={() => setMobileToggle(false)}>
-                About Us
+                기업 소개
               </Link>
             </li>
             <li>
               <Link href="/team" onClick={() => setMobileToggle(false)}>
-               Our Team
+               회사 사람들
               </Link>
             </li>
           </ul>
@@ -24,18 +24,18 @@ export default function Nav({ setMobileToggle }) {
       </li>
       <li className="menu-item-has-children">
         <Link href="/project" onClick={() => setMobileToggle(false)}>
-        Project
+        프로젝트
         </Link>
         <DropDown>
           <ul>
             <li>
               <Link href="/project" onClick={() => setMobileToggle(false)}>
-              Project Light
+              프로젝트 목록
               </Link>
             </li>
             <li>
               <Link href="/project/project-details-center" onClick={() => setMobileToggle(false)}>
-              Project Details Center
+              프로젝트 상세
               </Link>
             </li>
           </ul>
@@ -44,18 +44,18 @@ export default function Nav({ setMobileToggle }) {
       </li>
       <li className="menu-item-has-children">
         <Link href="/service" onClick={() => setMobileToggle(false)}>
-          Services
+          서비스
         </Link>
         <DropDown>
           <ul>
             <li>
               <Link href="/service" onClick={() => setMobileToggle(false)}>
-                Services Light
+                서비스 목록
               </Link>
             </li>
             <li>
               <Link href="/service/service-details-center" onClick={() => setMobileToggle(false)}>
-                Service Details Center
+                서비스 상세
               </Link>
             </li>
           </ul>
@@ -64,13 +64,13 @@ export default function Nav({ setMobileToggle }) {
       </li>
       <li className="menu-item-has-children">
         <Link href="/blog" onClick={() => setMobileToggle(false)}>
-          Blog
+          블로그
         </Link>
         <DropDown>
           <ul>
             <li>
               <Link href="/blog" onClick={() => setMobileToggle(false)}>
-                Blog Light
+                블로그 목록
               </Link>
             </li>
             <li>
@@ -78,7 +78,7 @@ export default function Nav({ setMobileToggle }) {
                 href="/blog/blog-details"
                 onClick={() => setMobileToggle(false)}
               >
-                Blog Details Left
+                블로그 상세
               </Link>
             </li>
 
@@ -87,7 +87,7 @@ export default function Nav({ setMobileToggle }) {
       </li>
       <li>
         <Link href="/contact" onClick={() => setMobileToggle(false)}>
-          Contact
+          문의 및 요청
         </Link>
       </li>
     </ul>
