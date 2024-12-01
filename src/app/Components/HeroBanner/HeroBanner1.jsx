@@ -23,7 +23,7 @@ const HeroBanner1 = ({bgImg,subTitle,title,content,btnName,btnUrl,image1,image2,
   setIframeSrc('about:blank');
   setToggle(!toggle);
   };
-  
+
     return (
       <div className="hero_main_area1">
         <div className="hero1" data-background={bgImg}>
@@ -43,7 +43,7 @@ const HeroBanner1 = ({bgImg,subTitle,title,content,btnName,btnUrl,image1,image2,
                     <Link className="theme-btn1" href={btnUrl}>{btnName} <span><i className="bi bi-arrow-right"></i>
                     </span></Link>
                     <span onClick={handelClick} className="play-btn"><span><i className="bi bi-play"></i>
-                    </span> Watch Demo Video</span>
+                    </span>{/* Watch Demo Video */}</span>
                   </div>
                 </div>
               </div>
@@ -58,7 +58,7 @@ const HeroBanner1 = ({bgImg,subTitle,title,content,btnName,btnUrl,image1,image2,
                   </div>
                   <div className="image3 shape-animaiton3">
                   <Image src={shapeImage1} alt="img" width={252} height={72}   />
-  
+
                   </div>
                   <div className="image4 shape-animaiton3">
                   <Image src={shapeiamge2} alt="img" width={332} height={162}   />
@@ -78,7 +78,7 @@ const HeroBanner1 = ({bgImg,subTitle,title,content,btnName,btnUrl,image1,image2,
         <VideoModal
           isTrue={toggle}
           iframeSrc={iframeSrc}
-          handelClose={handelClose}        
+          handelClose={handelClose}
       ></VideoModal>
       </div>
     );

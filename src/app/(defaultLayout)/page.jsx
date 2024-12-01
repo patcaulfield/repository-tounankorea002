@@ -15,12 +15,15 @@ const Home = () => {
         <div>
             <HeroBanner1
                 bgImg="/assets/img/bg/hero1-bg.png"
-                subTitle="세계로 뻗어가는 전문 무역 솔루션 기업"
-                title="최적의 무역 솔루션으로 비즈니스를 <span class='after'>혁신</span>하세요"
-                content="토우난코리아에 오신 것을 환영합니다.
-저희는 귀사의 성장을 이끄는 맞춤형 무역 솔루션과 서비스를 제공합니다.
-업무를 간소화하고 새로운 기회를 열어가는 파트너가 되어드리겠습니다."
-                btnName="Get Started Now"
+                subTitle="세계로 뻗어가는 첨단기술 수출입을 전문 기업"
+                title="신뢰와 품질로 함께하는 <span class='after'>토우난코리아</span>"
+                content="토우난코리아는
+최신 기술과 첨단 제품의
+수출입을 주력으로 하여,
+글로벌 시장에서 경쟁력을 갖추고
+효율적인 비즈니스 솔루션을 제공하는
+신뢰받는 무역 회사입니다."
+                btnName="문의하기"
                 btnUrl="/contact"
                 image1="/assets/img/hero/hero1-image1.png"
                 image2="/assets/img/hero/hero1-image2.png"

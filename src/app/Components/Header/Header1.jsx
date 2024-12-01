@@ -44,7 +44,7 @@ export default function Header1({ variant }) {
               <div className="pera">
                 <p>
                 <Image src="/assets/img/icons/header-top-span.png" alt="img" width={18} height={16}   />
-                  세계로 뻗어가는 전문 무역 솔루션 기업 </p>
+                  세계로 뻗어가는 첨단기술 수출입을 전문 기업 </p>
               </div>
             </div>
           </div>
