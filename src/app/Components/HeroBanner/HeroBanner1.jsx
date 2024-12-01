@@ -42,7 +42,7 @@ const HeroBanner1 = ({bgImg,subTitle,title,content,btnName,btnUrl,image1,image2,
                   <div className="buttons">
                     <Link className="theme-btn1" href={btnUrl}>{btnName} <span><i className="bi bi-arrow-right"></i>
                     </span></Link>
-                    <span onClick={handelClick} className="play-btn"><span><i className="bi bi-play"></i>
+                    <span onClick={handelClick} className="play-btn"><span>{/* <i className="bi bi-play"></i> */}
                     </span>{/* Watch Demo Video */}</span>
                   </div>
                 </div>
