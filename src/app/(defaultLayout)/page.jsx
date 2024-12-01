@@ -53,7 +53,6 @@ const Home = () => {
             <Services1></Services1>
             <Choose1></Choose1>
             <Project1></Project1>
-            <Pricing1></Pricing1>
             <Testimonial1></Testimonial1>
             <Blog1></Blog1>
             <Cta1></Cta1>
