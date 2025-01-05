@@ -1,32 +1,32 @@
 [
   {
-    "img": "/assets/img/work/project-img1.png",   
-    "title": "Enterprise Resource Planning Implementation",
+    "img": "/assets/img/work/project-img1.png",
+    "title": "FAN",
     "btnName": "Learn More"
   },
   {
-    "img": "/assets/img/work/project-img2.png",   
-    "title": "Enterprise Resource Planning Implementation",
+    "img": "/assets/img/work/project-img2.png",
+    "title": "VALVES",
     "btnName": "Learn More"
   },
   {
-    "img": "/assets/img/work/project-img3.png",   
-    "title": "Enterprise Resource Planning Implementation",
+    "img": "/assets/img/work/project-img3.png",
+    "title": "MOTORS",
     "btnName": "Learn More"
   },
   {
-    "img": "/assets/img/work/project-img1.png",   
-    "title": "Enterprise Resource Planning Implementation",
-    "btnName": "Learn More"
-  },  
-  {
-    "img": "/assets/img/work/project-img2.png",   
-    "title": "Enterprise Resource Planning Implementation",
+    "img": "/assets/img/work/project-img1.png",
+    "title": "SWITCHES & SENSORS",
     "btnName": "Learn More"
   },
   {
-    "img": "/assets/img/work/project-img3.png",   
-    "title": "Enterprise Resource Planning Implementation",
+    "img": "/assets/img/work/project-img2.png",
+    "title": "PUMPS",
     "btnName": "Learn More"
-  }         
+  },
+  {
+    "img": "/assets/img/work/project-img3.png",
+    "title": "FA INSTRUMENTS",
+    "btnName": "Learn More"
+  }
 ]

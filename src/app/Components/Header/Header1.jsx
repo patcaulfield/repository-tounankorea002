@@ -43,8 +43,8 @@ export default function Header1({ variant }) {
             <div className="col-lg-12">
               <div className="pera">
                 <p>
-                <Image src="/assets/img/icons/header-top-span.png" alt="img" width={18} height={16}   />
-                  세계로 뻗어가는 첨단기술 수출입을 전문 기업 </p>
+                <Image src="/assets/img/icons/header-top-span.png" alt="img" width={30} height={26}   />
+                  세계로 뻗어가는 첨단기술 수출입 전문 기업 </p>
               </div>
             </div>
           </div>

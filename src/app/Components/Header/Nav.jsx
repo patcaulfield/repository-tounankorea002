@@ -22,24 +22,10 @@ export default function Nav({ setMobileToggle }) {
           </ul>
         </DropDown>
       </li>
-      <li className="menu-item-has-children">
+      <li>
         <Link href="/project" onClick={() => setMobileToggle(false)}>
-        프로젝트
+        제품소개
         </Link>
-        <DropDown>
-          <ul>
-            <li>
-              <Link href="/project" onClick={() => setMobileToggle(false)}>
-              프로젝트 목록
-              </Link>
-            </li>
-            <li>
-              <Link href="/project/project-details-center" onClick={() => setMobileToggle(false)}>
-              프로젝트 상세
-              </Link>
-            </li>
-          </ul>
-        </DropDown>
 
       </li>
       <li className="menu-item-has-children">

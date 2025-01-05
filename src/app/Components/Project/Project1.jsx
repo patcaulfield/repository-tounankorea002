@@ -36,7 +36,7 @@ const Project1 = () => {
             }
           }
         ]
-      }; 
+      };
 
     return (
         <div className="project sp">
@@ -45,8 +45,8 @@ const Project1 = () => {
               <div className="col-lg-8 m-auto text-center">
                 <div className="heading1">
                     <SectionTitle
-                        SubTitle="Our Project"
-                        Title="Driving Success Through Innovative IT Solution Project"
+                        SubTitle="Our Products"
+                        Title="혁신적인 첨단 기술 무역으로 성공을 이끕니다."
                     ></SectionTitle>
                 </div>
               </div>
