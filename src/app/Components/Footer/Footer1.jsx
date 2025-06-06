@@ -63,7 +63,7 @@ const Footer1 = () => {
                                 <Image src="/assets/img/icons/footer1-icon1.png" alt="img" width={24} height={24}   />
                               </div>
                               <div className="pera">
-                                <a href="tel:010-6543-0443">010-6543-0443</a>
+                                <a href="tel:010-2762-2109">관리팀: 010-2762-2109</a>
                               </div>
                             </div>
 
@@ -72,7 +72,7 @@ const Footer1 = () => {
                               <Image src="/assets/img/icons/footer1-icon2.png" alt="img" width={24} height={24}   />
                               </div>
                               <div className="pera">
-                                <a href="tel:010-2762-2109">010-2762-2109</a>
+                                <a href="tel:010-6543-0443">영업팀: 010-6543-0443</a>
                               </div>
                             </div>
 
@@ -81,7 +81,7 @@ const Footer1 = () => {
                               <Image src="/assets/img/icons/footer1-icon3.png" alt="img" width={24} height={24}   />
                               </div>
                               <div className="pera">
-                                <a href="mailto:tounankorea@kakao.com">tounankorea@kakao.com</a>
+                                <a href="mailto:tounankorea@kakao.com">tounankorea@kakao.com<br/>(국내영업)</a>
                               </div>
                             </div>
 
@@ -90,7 +90,7 @@ const Footer1 = () => {
                               <Image src="/assets/img/icons/footer1-icon4.png" alt="img" width={24} height={24}/>                                
                               </div>
                               <div className="pera">
-                                <a href="mailto:tounankorea@kakao.com">tounankorea@kakao.com</a>
+                                <a href="mailto:tounanjapan@kakao.com">tounanjapan@kakao.com<br/>(해외자재)</a>
                               </div>
                             </div>
 
