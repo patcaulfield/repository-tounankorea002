@@ -1,22 +1,22 @@
 [
   {
     "img": "/assets/img/icons/hero-bottom-icon1.png",  
-    "title": "4x Award Wining",
-    "desc": "Always ready to support"
+    "title": "강점1",
+    "desc": "합리적인 가격"
   },
   {
     "img": "/assets/img/icons/hero-bottom-icon2.png",  
-    "title": "2.5k Case Solved",
-    "desc": "It Solution case solved"
+    "title": "강점2",
+    "desc": "빠른 대응"
   },
   {
     "img": "/assets/img/icons/hero-bottom-icon3.png",  
-    "title": "150k Optimisation",
-    "desc": "Keywords into online"
+    "title": "강점3",
+    "desc": "효율적인 운영관리"
   },  
   {
     "img": "/assets/img/icons/hero-bottom-icon4.png",  
-    "title": "4x Award Wining",
-    "desc": "Always ready to support"
+    "title": "강점4",
+    "desc": "오랜 경험의 관리 노하우"
   }
 ]

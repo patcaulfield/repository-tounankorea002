@@ -10,8 +10,8 @@ const Blog1 = () => {
               <div className="col-lg-8 m-auto text-center">
                 <div className="heading1">
                     <SectionTitle
-                        SubTitle="Blog & Latest News"
-                        Title="Latest News & Blog"
+                        SubTitle="블로그 & 최신 뉴스 "
+                        Title="블로그 & 최신 뉴스"
                     ></SectionTitle>
                 </div>
               </div>
@@ -25,11 +25,11 @@ const Blog1 = () => {
                   </div>
                   <div className="heading">
                     <div className="tags">
-                      <a href="#"><Image src="/assets/img/icons/blog-icon1.png" alt="img" width={16} height={16}   /> John William</a>
-                      <a href="#"><Image src="/assets/img/icons/blog-icon2.png" alt="img" width={16} height={16}   /> Feb 25, 24</a>
+                      <a href="#"><Image src="/assets/img/icons/blog-icon1.png" alt="img" width={16} height={16}   /> 이동찬</a>
+                      <a href="#"><Image src="/assets/img/icons/blog-icon2.png" alt="img" width={16} height={16}   /> 2월 25, 24</a>
                     </div>
-                    <h4><Link href="/blog/blog-details">Demystifying Blockchain: How It is Revolutionising Industries.</Link></h4>
-                    <Link href="/blog/blog-details" className="learn">Learn More <span><i className="fa fa-long-arrow-right" aria-hidden="true"></i></span></Link>
+                    <h4><Link href="/blog/blog-details">제품에 대한 설명</Link></h4>
+                    <Link href="/blog/blog-details" className="learn">자세히보기 <span><i className="fa fa-long-arrow-right" aria-hidden="true"></i></span></Link>
                   </div>
                 </div>
               </div>
@@ -41,11 +41,11 @@ const Blog1 = () => {
                   </div>
                   <div className="heading">
                     <div className="tags">
-                    <a href="#"><Image src="/assets/img/icons/blog-icon1.png" alt="img" width={16} height={16}   /> John William</a>
-                    <a href="#"><Image src="/assets/img/icons/blog-icon2.png" alt="img" width={16} height={16}   /> Feb 25, 24</a>
+                    <a href="#"><Image src="/assets/img/icons/blog-icon1.png" alt="img" width={16} height={16}   /> 이동찬</a>
+                    <a href="#"><Image src="/assets/img/icons/blog-icon2.png" alt="img" width={16} height={16}   /> 2월 25, 24</a>
                     </div>
-                    <h4><Link href="/blog/blog-details">Cybersecurity Essentials: Protecting Your Business </Link></h4>
-                    <Link href="/blog/blog-details" className="learn"> Learn More <span><i className="fa fa-long-arrow-right" aria-hidden="true"></i></span></Link>
+                    <h4><Link href="/blog/blog-details">제품에 대한 설명 </Link></h4>
+                    <Link href="/blog/blog-details" className="learn"> 자세히보기 <span><i className="fa fa-long-arrow-right" aria-hidden="true"></i></span></Link>
                   </div>
                 </div>
               </div>
@@ -57,11 +57,11 @@ const Blog1 = () => {
                   </div>
                   <div className="heading">
                     <div className="tags">
-                    <a href="#"><Image src="/assets/img/icons/blog-icon1.png" alt="img" width={16} height={16}   /> John William</a>
-                    <a href="#"><Image src="/assets/img/icons/blog-icon2.png" alt="img" width={16} height={16}   /> Feb 25, 24</a>
+                    <a href="#"><Image src="/assets/img/icons/blog-icon1.png" alt="img" width={16} height={16}   /> 이동찬</a>
+                    <a href="#"><Image src="/assets/img/icons/blog-icon2.png" alt="img" width={16} height={16}   /> 2월 25, 24</a>
                     </div>
-                    <h4><Link href="/blog/blog-details">The Future of Work: Embracing Remote Collaboration Tools</Link></h4>
-                    <Link href="/blog/blog-details" className="learn"> Learn More <span><i className="fa fa-long-arrow-right" aria-hidden="true"></i></span></Link>
+                    <h4><Link href="/blog/blog-details">제품에 대한 설명</Link></h4>
+                    <Link href="/blog/blog-details" className="learn"> 자세히보기 <span><i className="fa fa-long-arrow-right" aria-hidden="true"></i></span></Link>
                   </div>
                 </div>
               </div>

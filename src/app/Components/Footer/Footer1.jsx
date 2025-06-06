@@ -31,10 +31,10 @@ const Footer1 = () => {
                             <h3>제품 소개</h3>
 
                             <ul className="menu-list">
-                                 <li><Link href="/service/service-details">기업소개</Link></li>
-                                 <li><Link href="/service/service-details">제품소개</Link></li>
-                                 <li><Link href="/service/service-details">서비스</Link></li>
-                                 <li><Link href="/service/service-details">이용사례</Link></li>
+                                 <li><Link href="/service/service-details">제품1</Link></li>
+                                 <li><Link href="/service/service-details">제품2</Link></li>
+                                 <li><Link href="/service/service-details">제품3</Link></li>
+                                 <li><Link href="/service/service-details">제품4</Link></li>
                             </ul>
                        </div>
                   </div>

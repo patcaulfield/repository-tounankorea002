@@ -7,7 +7,7 @@ import React from 'react';
 const page = () => {
     return (
         <div>
-            <BreadCumb Title="Contact Us"></BreadCumb>
+            <BreadCumb Title="문의하기"></BreadCumb>
             <MarqueeText></MarqueeText>
             <ContactInfo1></ContactInfo1>
             <Cta1></Cta1>            

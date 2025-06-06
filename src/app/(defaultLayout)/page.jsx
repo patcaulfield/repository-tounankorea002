@@ -47,7 +47,7 @@ const Home = () => {
                     "차별화된 고유의 경쟁력과 판매 전략을 강조합니다.",
                     "각 무역 분야의 전문가들로 구성된 팀을 통해 신뢰와 전문성을 전달합니다.",
                 ]}
-                btnName="Discover More"
+                btnName="자세히보기"
                 btnUrl="/about"
             ></About1>
             <Blog1></Blog1>

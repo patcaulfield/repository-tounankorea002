@@ -54,40 +54,40 @@ const ContactInfo1 = () => {
                                 <div className="row">
                                     <div className="col-lg-6">
                                         <div className="single-input">
-                                            <input type="text" placeholder="First Name" />
+                                            <input type="text" placeholder="이름" />
                                         </div>
                                     </div>
                                     <div className="col-lg-6">
                                         <div className="single-input">
-                                            <input type="text" placeholder="Last Name" />
-                                        </div>
-                                    </div>
-
-                                    <div className="col-lg-6">
-                                        <div className="single-input">
-                                            <input type="email" placeholder="Email" />
+                                            <input type="text" placeholder="성" />
                                         </div>
                                     </div>
 
                                     <div className="col-lg-6">
                                         <div className="single-input">
-                                            <input type="number" placeholder="Phone" />
+                                            <input type="email" placeholder="이메일" />
+                                        </div>
+                                    </div>
+
+                                    <div className="col-lg-6">
+                                        <div className="single-input">
+                                            <input type="number" placeholder="전화번호" />
                                         </div>
                                     </div>
                                     <div className="col-lg-12">
                                         <div className="single-input">
-                                            <input type="text" placeholder="Subject" />
+                                            <input type="text" placeholder="제목" />
                                         </div>
                                     </div>
 
                                     <div className="col-lg-12">
                                         <div className="single-input">
-                                            <textarea cols="30" rows="5" placeholder="Message"></textarea>
+                                            <textarea cols="30" rows="5" placeholder="내용"></textarea>
                                         </div>
                                     </div>
 
                                     <div className="col-lg-12">
-                                        <button className="theme-btn1">Submit <span><i className="bi bi-arrow-right"></i></span></button>
+                                        <button className="theme-btn1">보내기 <span><i className="bi bi-arrow-right"></i></span></button>
                                     </div>
 
                                 </div>
