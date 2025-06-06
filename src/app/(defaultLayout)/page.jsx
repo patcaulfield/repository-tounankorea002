@@ -50,10 +50,6 @@ const Home = () => {
                 btnName="Discover More"
                 btnUrl="/about"
             ></About1>
-            <Services1></Services1>
-            <Choose1></Choose1>
-            <Project1></Project1>
-            <Testimonial1></Testimonial1>
             <Blog1></Blog1>
             <Cta1></Cta1>
         </div>

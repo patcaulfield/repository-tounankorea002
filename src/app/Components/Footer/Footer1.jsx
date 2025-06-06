@@ -28,7 +28,7 @@ const Footer1 = () => {
 
                   <div className="col-lg col-md-6 col-12">
                        <div className="single-footer-items">
-                            <h3>Service We Offer</h3>
+                            <h3>제품 소개</h3>
 
                             <ul className="menu-list">
                                  <li><Link href="/service/service-details">기업소개</Link></li>
@@ -41,7 +41,7 @@ const Footer1 = () => {
 
                   <div className="col-lg col-md-6 col-12">
                        <div className="single-footer-items">
-                            <h3>Useful Links</h3>
+                            <h3>카테고리</h3>
 
                             <ul className="menu-list">
                                  <li><Link href="/about">기업소개 </Link></li>
@@ -56,7 +56,7 @@ const Footer1 = () => {
 
                   <div className="col-lg-3 col-md-6 col-12">
                        <div className="single-footer-items">
-                            <h3>Contact Us</h3>
+                            <h3>문의하기</h3>
 
                             <div className="contact-box">
                               <div className="icon">
