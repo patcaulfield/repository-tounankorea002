@@ -15,7 +15,7 @@ const Footer1 = () => {
                             </div>
                             <div className="space20"></div>
                             <div className="heading1">
-                              <p>At TechXen IT Solutions, we are dedicated to delivering innovative technology solutions tailored to meet the unique needs of businesses like yours. </p>
+                              <p>일본, 유럽, 미국 첨단 기업의 고품질 제품을, 합리적인 가격으로 제공하며, 뛰어난 기술력과 신뢰를 기반으로 고객의 만족을 최우선으로 합니다. </p>
                             </div>
                             <ul className="social-icon">
                                  <li><a href="#"><i className="bi bi-linkedin"></i></a></li>
@@ -31,10 +31,10 @@ const Footer1 = () => {
                             <h3>Service We Offer</h3>
 
                             <ul className="menu-list">
-                                 <li><Link href="/service/service-details">Cloud Computing Solution</Link></li>
-                                 <li><Link href="/service/service-details">Cybersecurity & Compliance</Link></li>
-                                 <li><Link href="/service/service-details">Software Development</Link></li>
-                                 <li><Link href="/service/service-details">It Consulting & Support</Link></li>
+                                 <li><Link href="/service/service-details">기업소개</Link></li>
+                                 <li><Link href="/service/service-details">제품소개</Link></li>
+                                 <li><Link href="/service/service-details">서비스</Link></li>
+                                 <li><Link href="/service/service-details">이용사례</Link></li>
                             </ul>
                        </div>
                   </div>
@@ -44,11 +44,11 @@ const Footer1 = () => {
                             <h3>Useful Links</h3>
 
                             <ul className="menu-list">
-                                 <li><Link href="/about">About Us </Link></li>
-                                 <li><Link href="/service">Our Services</Link></li>
-                                 <li><Link href="/blog">Blog & News</Link></li>
-                                 <li><Link href="/project">Project</Link></li>
-                                 <li><Link href="/contact">Contact Us</Link></li>
+                                 <li><Link href="/about">기업소개 </Link></li>
+                                 <li><Link href="/service">서비스</Link></li>
+                                 <li><Link href="/blog">블로그 & 최신 소식</Link></li>
+                                 <li><Link href="/project">제품소개</Link></li>
+                                 <li><Link href="/contact">문의하기</Link></li>
                             </ul>
                        </div>
                   </div>
@@ -63,7 +63,7 @@ const Footer1 = () => {
                                 <Image src="/assets/img/icons/footer1-icon1.png" alt="img" width={24} height={24}   />
                               </div>
                               <div className="pera">
-                                <a href="tel:0500222333">0500 222 333</a>
+                                <a href="tel:010-6543-0443">010-6543-0443</a>
                               </div>
                             </div>
 
@@ -72,7 +72,7 @@ const Footer1 = () => {
                               <Image src="/assets/img/icons/footer1-icon2.png" alt="img" width={24} height={24}   />
                               </div>
                               <div className="pera">
-                                <a href="tel:0356588547">03 5658 8547</a>
+                                <a href="tel:010-2762-2109">010-2762-2109</a>
                               </div>
                             </div>
 
@@ -81,7 +81,7 @@ const Footer1 = () => {
                               <Image src="/assets/img/icons/footer1-icon3.png" alt="img" width={24} height={24}   />
                               </div>
                               <div className="pera">
-                                <a href="mailto:admin@techxen.org">admin@techxen.org</a>
+                                <a href="mailto:tounankorea@kakao.com">tounankorea@kakao.com</a>
                               </div>
                             </div>
 
@@ -90,7 +90,7 @@ const Footer1 = () => {
                               <Image src="/assets/img/icons/footer1-icon4.png" alt="img" width={24} height={24}/>                                
                               </div>
                               <div className="pera">
-                                <a href="mailto:admin@techxen.org">www.techxen.org</a>
+                                <a href="mailto:tounankorea@kakao.com">tounankorea@kakao.com</a>
                               </div>
                             </div>
 
@@ -107,7 +107,7 @@ const Footer1 = () => {
             <div className="row align-items-center">
               <div className="col-md-5">
                    <div className="coppyright">
-                     <p>Copyright @2024 TechXen.All Rights Reserved</p>
+                     <p>Copyright @2025 Tounankorea.All Rights Reserved</p>
                    </div>
               </div>
               <div className="col-md-7">
