@@ -84,7 +84,7 @@ export default function Header1({ variant }) {
                       </div>
                       <div className="headding">
                         <p>고객센터</p>
-                        <a href="tel:124(555)6565">010-1234-5678</a>
+                        <a href="tel:010-6543-04435">010-6543-0443</a>
                       </div>
                     </div>
                     <div className="button">
